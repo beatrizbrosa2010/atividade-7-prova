@@ -1,0 +1,15 @@
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\bin\Debug\net7.0\ATIVIDADE 8.exe
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\bin\Debug\net7.0\ATIVIDADE 8.deps.json
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\bin\Debug\net7.0\ATIVIDADE 8.runtimeconfig.json
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\bin\Debug\net7.0\ATIVIDADE 8.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\bin\Debug\net7.0\ATIVIDADE 8.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.csproj.AssemblyReference.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.AssemblyInfoInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.AssemblyInfo.cs
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\refint\ATIVIDADE 8.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ATIVIDADE 8.genruntimeconfig.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividades prova\ATIVIDADE 8\ATIVIDADE 8\obj\Debug\net7.0\ref\ATIVIDADE 8.dll
